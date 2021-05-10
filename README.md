@@ -35,3 +35,23 @@ In this analysis, I chose a total of six indicators in BostonMPO area:
 6. Zonal statitics to get scores in all ZCTAs, then find the highest score of suitability.
 7. Attribute join to get library density in ZCTA
 8. Compare the existing number of library in ZCTA and our scores to ensure that the most suitable are does not have enough libraries right now.
+
+## Packages
+  - scipy
+  - numpy
+  - pandas
+  - shapely
+  - geopandas
+  - geopy
+  - geojson
+  - bokeh
+  - matplotlib
+  - seaborn
+  - folium
+  - mplleaflet
+  - networkx
+  - osmnx
+  - rasterio
+  - richdem
+  - rasterstats
+  - contextily
