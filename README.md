@@ -26,7 +26,6 @@ In this analysis, I chose a total of six indicators in BostonMPO area:
 6. MBTA_Bus_Stops.shp: A shapefile with points of bus stops in Boston.
 7. NLCD_2016_Land_Cover_Boston.tif: Raster file of land cover in Boston.
 
-
 ## Method
 1. Cilp for Boston Region ZCTAs
 2. Rasterize all points
