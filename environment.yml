@@ -1,6 +1,8 @@
 name: Final Project -- Hongkun Huang
+
 channels:
   - conda-forge
+  
 dependencies:
   - python=3.*
   - ipython=7.10.*
